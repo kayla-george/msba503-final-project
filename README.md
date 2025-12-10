@@ -53,16 +53,20 @@ Mask R-CNN extends object detection by adding instance segmentation — it not o
 ## Project Structure
 ```
 msba503-final-project/
+├── Images                     # Product images for computer vision
+    └── (image files)
 ├── 01_data_loading.ipynb          # Data loading, cleaning, initial EDA
 ├── 02_Sentiment_Analysis.ipynb    # Text preprocessing, sentiment, TF-IDF
 ├── 03_Topic_Modeling_and_EDA.ipynb # Topic modeling with NMF, EDA visualizations
 ├── 04_Modeling.ipynb               # Satisfaction & priority prediction models
 ├── 05_Image_Analytics_YOLO.ipynb   # YOLOv8n and Mask R-CNN demonstrations
 ├── data/
-│   ├── customer_support_tickets.csv
-│   ├── processed/
-│   │   └── df_model_features.csv
-│   └── images/                     # Product images for computer vision
+├── customer_support_tickets.csv   
+├── df_maskrcnn_detections.csv
+├── df_model.csv
+├── df_model_features.csv
+├── df_yolo_detections.csv
+├── yolov8n.pt
 └── README.md
 ```
 
