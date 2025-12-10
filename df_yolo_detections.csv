@@ -1,0 +1,6 @@
+filename,num_detections,detected_classes,confidences
+beats.jpeg,1,['cake'],[0.34445059299468994]
+camera.jpeg,2,"['fire hydrant', 'potted plant']","[0.9095536470413208, 0.8155145049095154]"
+camera2.jpeg,0,[],[]
+headphones.jpeg,4,"['laptop', 'cup', 'mouse', 'cell phone']","[0.8354176878929138, 0.7572892904281616, 0.28237539529800415, 0.2602989673614502]"
+ipad.jpeg,1,['book'],[0.6693925857543945]

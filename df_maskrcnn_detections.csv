@@ -1,0 +1,4 @@
+filename,num_instances,detected_objects,avg_confidence
+beats.jpeg,0,[],0.0
+camera.jpeg,2,"['dog', 'potted plant']",0.923267126083374
+camera2.jpeg,0,[],0.0
