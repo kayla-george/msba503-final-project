@@ -60,7 +60,7 @@ msba503-final-project/
 ├── 03_Topic_Modeling_and_EDA.ipynb # Topic modeling with NMF, EDA visualizations
 ├── 04_Modeling.ipynb               # Satisfaction & priority prediction models
 ├── 05_Image_Analytics_YOLO.ipynb   # YOLOv8n and Mask R-CNN demonstrations
-├── data/
+
 ├── customer_support_tickets.csv   
 ├── df_maskrcnn_detections.csv
 ├── df_model.csv
