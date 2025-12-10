@@ -2,3 +2,15 @@ filename,num_instances,detected_objects,avg_confidence
 beats.jpeg,0,[],0.0
 camera.jpeg,2,"['dog', 'potted plant']",0.923267126083374
 camera2.jpeg,0,[],0.0
+headphones.jpeg,4,"['cup', 'laptop', 'cell phone', 'keyboard']",0.9472008943557739
+ipad.jpeg,1,['book'],0.8844035863876343
+iphone.jpeg,1,['cell phone'],0.9312428832054138
+keyboard_mechanical.jpeg,1,['keyboard'],0.9846466183662415
+laptop_setup.jpeg,5,"['laptop', 'tv', 'keyboard', 'tv', 'laptop']",0.9191855192184448
+macbook_keyboard.jpeg,0,[],0.0
+mouse.jpeg,1,['mouse'],0.9467052817344666
+Samsung_galaxy.jpeg,0,[],0.0
+smartwatch.jpeg,2,"['cell phone', 'person']",0.9112738370895386
+speaker.jpeg,0,[],0.0
+tablet.jpeg,1,['cell phone'],0.7814258933067322
+TV_remote.jpeg,1,['remote'],0.9974517226219177

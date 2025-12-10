@@ -4,3 +4,13 @@ camera.jpeg,2,"['fire hydrant', 'potted plant']","[0.9095536470413208, 0.8155145
 camera2.jpeg,0,[],[]
 headphones.jpeg,4,"['laptop', 'cup', 'mouse', 'cell phone']","[0.8354176878929138, 0.7572892904281616, 0.28237539529800415, 0.2602989673614502]"
 ipad.jpeg,1,['book'],[0.6693925857543945]
+iphone.jpeg,1,['cell phone'],[0.5004246234893799]
+keyboard_mechanical.jpeg,1,['keyboard'],[0.9137864708900452]
+laptop_setup.jpeg,4,"['laptop', 'tv', 'tv', 'keyboard']","[0.9560360312461853, 0.9119871258735657, 0.6197614669799805, 0.26093581318855286]"
+macbook_keyboard.jpeg,2,"['keyboard', 'keyboard']","[0.3739827573299408, 0.2859823405742645]"
+mouse.jpeg,1,['parking meter'],[0.3023523986339569]
+Samsung_galaxy.jpeg,0,[],[]
+smartwatch.jpeg,1,['person'],[0.3117784559726715]
+speaker.jpeg,0,[],[]
+tablet.jpeg,0,[],[]
+TV_remote.jpeg,1,['remote'],[0.934026300907135]
